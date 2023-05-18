@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET / HTTP/1.1" 200 2156 http-bio-9092-exec-1 94
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET /css/pages-login-manage.css HTTP/1.1" 200 2657 http-bio-9092-exec-2 26
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET /css/webbase.css HTTP/1.1" 200 254102 http-bio-9092-exec-3 27
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 86659 http-bio-9092-exec-4 23
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET /img/back.jpg HTTP/1.1" 200 231511 http-bio-9092-exec-6 4
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:38:16 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9092-exec-8 3
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:39:44 +0800] "GET /course/allCourse HTTP/1.1" 200 4500 http-bio-9092-exec-9 74034
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:39:44 +0800] "GET /course/showPic/c.jpg HTTP/1.1" 200 76884 http-bio-9092-exec-10 20
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:39:44 +0800] "GET /course/showPic/english.jpg HTTP/1.1" 200 123005 http-bio-9092-exec-1 7
+0:0:0:0:0:0:0:1 - - [18/May/2023:16:39:44 +0800] "GET /course/showPic/os.jpg HTTP/1.1" 200 19484 http-bio-9092-exec-2 9
